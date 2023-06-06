@@ -3,6 +3,7 @@
 Code in LabVIEW (2021) to acquire data from the DAQ [USB-6251](https://www.ni.com/pdf/manuals/375213c.pdf) from National Instruments.
 For more information about the device, check the [manual](https://www.ni.com/pdf/manuals/371022l.pdf).
 
+- Install the [DAQmx](https://www.ni.com/pt-br/support/downloads/drivers/download.ni-daq-mx.html) compatible with the LabVIEW version you have.
 
 ---
 **Labview diff tool will only work with Professional Development system License.**
